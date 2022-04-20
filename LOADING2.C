@@ -4,7 +4,7 @@
 void main()
 {
 	int i;
-
+	clrscr();
 	gotoxy(1,15);
 	for(i=0;i<80;i++)
 	{
